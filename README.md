@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ankityadav73
-- 👀 I’m interested in designing & Coding (Frontend)
-- 🌱 I’m currently learning html, css, javascript and frontend framework
+- 👋 Hi, I’m @Ankityadav73.
+- 👀 I’m interested in designing & Coding (Frontend).
+- 🌱 I’m currently learning Html, Css, Javascript and frontend framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
